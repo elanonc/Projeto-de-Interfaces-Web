@@ -1,0 +1,24 @@
+{
+  "name": "01-aula",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elanonc/Projeto-de-Interfaces-Web.git"
+  },
+  "keywords": [],
+  "author": "Elano N. Caitano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elanonc/Projeto-de-Interfaces-Web/issues"
+  },
+  "homepage": "https://github.com/elanonc/Projeto-de-Interfaces-Web#readme",
+  "dependencies": {
+    "express": "4.16"
+  }
+}
