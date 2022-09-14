@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/elanonc/Projeto-de-Interfaces-Web#readme",
   "dependencies": {
-    "express": "4.16"
+    "express": "4.16",
+    "mongoose": "5.11"
   }
 }
